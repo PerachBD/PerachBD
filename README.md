@@ -1,16 +1,15 @@
-### Hi there 👋
+### Perach Ben David 👧💻
 
-<!--
-**PerachBD/PerachBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/perach-ben-david-41ab85145/)
+[![GitHub followers](https://img.shields.io/github/followers/PerachBD.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/EngincanV?tab=followers)
 
-Here are some ideas to get you started:
+**💼 Currently working as: Full stack Developer** </b></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**👧🏻‍💻 Currently working on:** 
+
+<code><a href="https://nodejs.org/en/about/" target="_blank"><img height="50" src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/07/1436439824nodejs-logo.png"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
+
+
+![Perach's github stats](https://github-readme-stats.vercel.app/api?username=PerachBD&show_icons=true&line_height=30)
