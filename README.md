@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/perach-ben-david-41ab85145/)
 [![GitHub followers](https://img.shields.io/github/followers/PerachBD.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/EngincanV?tab=followers)
 
-**<img src="https://www.animatedimages.org/data/media/1099/animated-coffee-image-0041.gif" width="25px">💼 Currently working as: Full stack Developer** </b></a>
+**💼 Currently working as: Full stack Developer** </b></a>
 
 **<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Currently working on:** 
 
