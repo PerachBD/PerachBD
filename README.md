@@ -1,4 +1,4 @@
-### Perach Ben David  <img src="https://www.animatedimages.org/data/media/1645/animated-waving-image-0083.gif" width="60px">
+### Perach Ben David  <img src="https://www.animatedimages.org/data/media/1645/animated-waving-image-0043.gif" width="60px">
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="180">
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/perach-ben-david-41ab85145/)
