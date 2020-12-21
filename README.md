@@ -12,7 +12,6 @@
 <code><a href="https://www.ruby-lang.org/en/" target="_blank"><img height="40" src="https://www.clipartmax.com/png/middle/109-1092346_ruby-logo-ruby-on-rails-png.png"></a></code>
 </br>
 <code><a href="https://nodejs.org/en/about/" target="_blank"><img height="50" src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/07/1436439824nodejs-logo.png"></a></code>
-<code><a href="https://golang.org/" target="_blank"><img height="40" src="https://miro.medium.com/max/2700/1*qkPPwhQrMtoL-e18k0TXRA.png"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
 
